@@ -1,0 +1,2 @@
+# schoolrecords
+Elektronikus osztálynapló megvalósítása
